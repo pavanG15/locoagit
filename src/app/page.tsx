@@ -4,6 +4,7 @@ import { businesses } from '@/lib/data';
 import Image from 'next/image';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 
+// This comment is added to trigger a new Vercel deployment.
 export default function Home() {
   const heroImage = PlaceHolderImages.find(p => p.id === 'hero-banner');
 
