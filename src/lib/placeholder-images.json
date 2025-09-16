@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "A bustling city market street at dusk",
+      "imageUrl": "https://picsum.photos/seed/hero/1280/400",
+      "imageHint": "city market"
+    },
+    {
+      "id": "restaurant-1",
+      "description": "Interior of a modern, cozy restaurant",
+      "imageUrl": "https://picsum.photos/seed/r1/400/300",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "restaurant-2",
+      "description": "A vibrant street food stall",
+      "imageUrl": "https://picsum.photos/seed/r2/400/300",
+      "imageHint": "street food"
+    },
+    {
+      "id": "electronics-1",
+      "description": "A modern electronics store with laptops and phones on display",
+      "imageUrl": "https://picsum.photos/seed/e1/400/300",
+      "imageHint": "electronics store"
+    },
+    {
+      "id": "medical-1",
+      "description": "A clean and modern pharmacy aisle",
+      "imageUrl": "https://picsum.photos/seed/m1/400/300",
+      "imageHint": "pharmacy aisle"
+    },
+    {
+      "id": "clothing-1",
+      "description": "A boutique clothing store with racks of colorful garments",
+      "imageUrl": "https://picsum.photos/seed/c1/400/300",
+      "imageHint": "clothing boutique"
+    },
+    {
+      "id": "services-1",
+      "description": "A person getting a haircut in a stylish barbershop",
+      "imageUrl": "https://picsum.photos/seed/s1/400/300",
+      "imageHint": "barber shop"
+    },
+    {
+      "id": "electronics-2",
+      "description": "A workshop for repairing electronic gadgets",
+      "imageUrl": "https://picsum.photos/seed/e2/400/300",
+      "imageHint": "repair workshop"
+    },
+    {
+      "id": "medical-2",
+      "description": "A dentist's office with modern equipment",
+      "imageUrl": "https://picsum.photos/seed/m2/400/300",
+      "imageHint": "dentist office"
+    },
+    {
+      "id": "clothing-2",
+      "description": "A traditional tailor shop with fabrics and sewing machines",
+      "imageUrl": "https://picsum.photos/seed/c2/400/300",
+      "imageHint": "tailor shop"
+    }
+  ]
+}
