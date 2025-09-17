@@ -43,7 +43,9 @@
     "react-hook-form": "latest",
     "recharts": "latest",
     "zod": "latest",
-    "embla-carousel-react": "latest"
+    "embla-carousel-react": "latest",
+    "genkit": "latest",
+    "@genkit-ai/googleai": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
